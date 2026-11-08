@@ -1,0 +1,122 @@
+[
+    {
+        "timestamp": "2026-11-07 13:29:34",
+        "file_name": "509 - Copy.wav",
+        "telemetry": {
+            "railroad": "CSX",
+            "milepost": null,
+            "track": null,
+            "direction": null,
+            "defects": null,
+            "temperature_f": 0,
+            "total_axles": null,
+            "speed_mph": 0,
+            "train_length_feet": null
+        }
+    },
+    {
+        "timestamp": "2026-11-07 14:30:47",
+        "file_name": "509 - Copy.wav",
+        "telemetry": {
+            "railroad": "CSX",
+            "milepost": null,
+            "track": null,
+            "direction": null,
+            "defects": false,
+            "temperature_f": null,
+            "total_axles": null,
+            "speed_mph": null,
+            "train_length_feet": null
+        }
+    },
+    {
+        "timestamp": "2026-11-07 14:33:35",
+        "file_name": "509 - Copy.wav",
+        "telemetry": {
+            "railroad": "CSX",
+            "milepost": 44.2,
+            "track": null,
+            "direction": null,
+            "defects": true,
+            "temperature_f": null,
+            "total_axles": 84,
+            "speed_mph": null,
+            "train_length_feet": 1241
+        }
+    },
+    {
+        "timestamp": "2026-11-07 14:36:38",
+        "file_name": "509 - Copy.wav",
+        "telemetry": {
+            "railroad": "CSX",
+            "milepost": 44.2,
+            "track": null,
+            "direction": null,
+            "defects": false,
+            "temperature_f": null,
+            "total_axles": 84,
+            "speed_mph": 1241,
+            "train_length_feet": 1241
+        }
+    },
+    {
+        "timestamp": "2026-11-07 14:50:14",
+        "file_name": "2139 - Copy.wav",
+        "telemetry": {
+            "railroad": null,
+            "milepost": null,
+            "track": null,
+            "direction": "Westbound",
+            "defects": false,
+            "temperature_f": 34,
+            "total_axles": 574,
+            "speed_mph": 6,
+            "train_length_feet": null
+        }
+    },
+    {
+        "timestamp": "2026-11-07 14:54:09",
+        "file_name": "2139 - Copy.wav",
+        "telemetry": {
+            "railroad": "Unknown",
+            "milepost": 186.3,
+            "track": "Main",
+            "direction": "Westbound",
+            "defects": false,
+            "temperature_f": 34,
+            "total_axles": 574,
+            "speed_mph": 26,
+            "train_length_feet": null
+        }
+    },
+    {
+        "timestamp": "2026-11-07 14:59:13",
+        "file_name": "4263 - Copy.wav",
+        "telemetry": {
+            "railroad": "CN",
+            "milepost": 166.6,
+            "track": "Main 2",
+            "direction": "Eastbound",
+            "defects": false,
+            "temperature_f": 68,
+            "total_axles": 40,
+            "speed_mph": 26,
+            "train_length_feet": null
+        }
+    },
+    {
+        "timestamp": "2026-11-07 17:19:59",
+        "file_name": "2139 - Copy.wav",
+        "telemetry": {
+            "railroad": "Unknown",
+            "milepost": 186.3,
+            "track": "Main",
+            "direction": "Westbound",
+            "defects": false,
+            "temperature_f": 34,
+            "total_axles": 574,
+            "speed_mph": 6,
+            "train_length_feet": null
+        }
+    }
+]
