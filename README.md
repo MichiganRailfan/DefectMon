@@ -1,4 +1,5 @@
 # DefectMon (WIP)
+This program is a little broken right now but I am working on it.
 
 DefectMon is a program that (as the name would suggest) records and transcribes railroad defect detectors via an SDR and monitors them.
 
